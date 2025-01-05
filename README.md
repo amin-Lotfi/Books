@@ -16,8 +16,12 @@ The journey begins with **"Just for Fun: The Story of an Accidental Revolutionar
 
 3. **Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked**  
    *by Adam Alter*  
-   A thought-provoking analysis of how technology impacts our behavior and attention.  
-
+   A thought-provoking analysis of how technology impacts our behavior and attention.
+   
+5. **C Programming Language - 2nd Edition**
+   *by Brian W. Kernighan & Dennis M. Ritchie*
+   A timeless guide to mastering the foundational concepts of programming, presenting the essence of the C language with clarity and precision.
+   
 ---
 
 Explore, enjoy, and let these pages transform the way you see the world. 🚀
